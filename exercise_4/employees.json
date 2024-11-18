@@ -1,0 +1,104 @@
+[
+    {
+        "firstName": "Nguyen",
+        "lastName": "Hoa",
+        "dateOfBirth": "1985-10-10",
+        "address": "Ha Noi",
+        "jobPosition": "Manager",
+        "salary": 3000,
+        "team": [
+            {
+                "firstName": "Tran",
+                "lastName": "Van A",
+                "dateOfBirth": "1990-01-01",
+                "address": "Da Nang",
+                "jobPosition": "Developer",
+                "salary": 1000
+            },
+            {
+                "firstName": "Le",
+                "lastName": "Thi B",
+                "dateOfBirth": "1992-02-02",
+                "address": "HCM City",
+                "jobPosition": "Tester",
+                "salary": 800
+            }
+        ]
+    },
+    {
+        "firstName": "Phan",
+        "lastName": "Van C",
+        "dateOfBirth": "1995-05-05",
+        "address": "Hue",
+        "contractPeriod": "6 months",
+        "hourlyRate": 15
+    },
+    {
+        "firstName": "Nguyen",
+        "lastName": "Hoa",
+        "dateOfBirth": "1985-10-10",
+        "address": "Ha Noi",
+        "jobPosition": "Manager",
+        "salary": 3000,
+        "team": [
+            {
+                "firstName": "Tran",
+                "lastName": "Van A",
+                "dateOfBirth": "1990-01-01",
+                "address": "Da Nang",
+                "jobPosition": "Developer",
+                "salary": 1000
+            },
+            {
+                "firstName": "Le",
+                "lastName": "Thi B",
+                "dateOfBirth": "1992-02-02",
+                "address": "HCM City",
+                "jobPosition": "Tester",
+                "salary": 800
+            }
+        ]
+    },
+    {
+        "firstName": "Phan",
+        "lastName": "Van C",
+        "dateOfBirth": "1995-05-05",
+        "address": "Hue",
+        "contractPeriod": "6 months",
+        "hourlyRate": 15
+    },
+    {
+        "firstName": "Nguyen",
+        "lastName": "Hoa",
+        "dateOfBirth": "1985-10-10",
+        "address": "Ha Noi",
+        "jobPosition": "Manager",
+        "salary": 3000,
+        "team": [
+            {
+                "firstName": "Tran",
+                "lastName": "Van A",
+                "dateOfBirth": "1990-01-01",
+                "address": "Da Nang",
+                "jobPosition": "Developer",
+                "salary": 1000
+            },
+            {
+                "firstName": "Le",
+                "lastName": "Thi B",
+                "dateOfBirth": "1992-02-02",
+                "address": "HCM City",
+                "jobPosition": "Tester",
+                "salary": 800
+            }
+        ]
+    },
+    {
+        "firstName": "Phan",
+        "lastName": "Van C",
+        "dateOfBirth": "1995-05-05",
+        "address": "Hue",
+        "contractPeriod": "6 months",
+        "hourlyRate": 15
+    }
+]
